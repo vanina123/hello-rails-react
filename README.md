@@ -4,14 +4,12 @@
 
 # 📗 Table of Contents
 
-- [MyBudget App](#mybudget-app)
+- [Hello-rails-react](#hello-rails-react)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 MyBudget ](#-mybudget-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
-  - [Video Presentation ](#video-presentation-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -79,7 +77,7 @@ bundle install
 To run the project, execute the following command:
 
 ```
-rails server
+./bin/dev
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -98,6 +96,8 @@ rails server
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
+[] Add more interactions
+[] Add more components
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
